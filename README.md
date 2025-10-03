@@ -1,1 +1,1 @@
-# ProgProb
+ProbabilisticProgramming
